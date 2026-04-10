@@ -1,5 +1,5 @@
 {
-  "version_code": 3,
-  "key": "vless://69ea1606-e441-4050-a3f0-94a4654db96d@ip address:443?path=%2FeyJqdW5rIjoibEZXV1F2SlFGTE8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=bpb.awsedrft2ubxvgyhu4ujik.site&fp=chrome&type=ws&allowInsecure=0&sni=bpb.awsedrft2ubxvgyhu4ujik.site#Server_NODES"
+  "version_code": 4,
+  "key": "vless://b9e67ec4-1c33-4b57-9b61-1da0268ee96c@ip address:443?path=%2FeyJqdW5rIjoicGJsZTVsTlRxeVVpblgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=bypass.highatom.webredirect.org&fp=chrome&type=ws&allowInsecure=1&sni=bypass.highatom.webredirect.org#Server_NODES"
 
 }
