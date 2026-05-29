@@ -1,4 +1,4 @@
 {
-  "version_code": 9,
-  "key": "vless://f02ef078-ac01-4760-bd56-7532a970353d@ip address:443?path=%2FeyJqdW5rIjoiT2w1eHJLbksyZFhlIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=v1.mytel-payments-io.webredirect.org&fp=chrome&type=ws&allowInsecure=1&sni=v1.mytel-payments-io.webredirect.org#Node"
+  "version_code": 10,
+  "key": "vless://c67b59a5-41db-47b7-b4bf-c8aa60310186@ip address:443?path=%2FeyJqdW5rIjoiZUVHQjUxc0MwTyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=n3.nandaxpc.webredirect.org&fp=chrome&type=ws&allowInsecure=1&sni=n3.nandaxpc.webredirect.org#Node"
 }
