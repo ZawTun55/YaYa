@@ -1,4 +1,4 @@
 {
-  "version_code": 11,
-  "key": "vless://0bc901e8-97d5-4c6c-9e7b-679597b9d1a9@ip address:443?path=%2FeyJqdW5rIjoiZUVHQjUxc0MwTyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=n2.nandaxpc.webredirect.org&fp=chrome&type=ws&allowInsecure=1&sni=n2.nandaxpc.webredirect.org#Node"
+  "version_code": 12,
+  "key": "vless://8abac03a-3dae-4e02-ac0b-f2af6a878266@ip address:179?security=none&encryption=none&headerType=none&type=tcp#Node"
 }
