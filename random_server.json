@@ -1,4 +1,4 @@
 {
-  "version_code": 13,
-  "key": "vless://6ff9b0d7-00c1-4e2f-807e-16848003010e@ip address:443?path=%2FeyJqdW5rIjoiaXZJY25aSWoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=kms.komgk.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=KMs.KOMGK.CCwU.cC#Node"
+  "version_code": 14,
+  "key": "vless://6ff9b0d7-00c1-4e2f-807e-16848003010e@ip address:179?security=none&encryption=none&headerType=none&type=tcp#Node"
 }
