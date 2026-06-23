@@ -1,0 +1,20 @@
+{
+  "subscriptions": [
+    {
+      "id": 1,
+      "name": "Subscription 1",
+      "url": "https://api.private-secure.cloud:8000/sub/UGh5b01pblBhaW5nLDE3ODE3NzA1MjcJgPLRbxrKK",
+      "status": "active",
+      "added_at": "2026-06-23",
+      "updated_at": "2026-06-23"
+    },
+    {
+      "id": 2,
+      "name": "Subscription 2",
+      "url": "https://api.private-secure.cloud:8000/sub/UGh5b01pblBhaW5nLDE3ODE3NzA1MjcJgPLRbxrKK",
+      "status": "inactive",
+      "added_at": "2026-06-20",
+      "updated_at": "2026-06-22"
+    }
+  ]
+}
