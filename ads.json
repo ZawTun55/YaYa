@@ -1,9 +1,9 @@
 {
-  "active": false,
+  "active": true,
   "units": {
-    "banner": "ca-app-pub-xxxxxxxxxxxxxxxx/1111111111",
-    "interstitial": "ca-app-pub-xxxxxxxxxxxxxxxx/2222222222",
-    "rewarded": "ca-app-pub-xxxxxxxxxxxxxxxx/3333333333"
+    "banner": "ca-app-pub-9598213961842348/8731719876",
+    "interstitial": "ca-app-pub-9598213961842348/3587204407",
+    "rewarded": "ca-app-pub-9598213961842348/1778051875"
   
   }
 }
